@@ -2,7 +2,7 @@
 
 ## myGits
 
-* */proj/embedLin              https://github.com/SOLEROM/embedLin
+* /proj/embedLin              https://github.com/SOLEROM/embedLin
 * /proj/chipWis/gitKM/        https://github.com/SOLEROM/chipWis 
 * /data/sysadmin/03_ubu18/    https://github.com/SOLEROM/ubu18
 * /proj/theKernel/kernelKM/   https://github.com/SOLEROM/KernelWrks
