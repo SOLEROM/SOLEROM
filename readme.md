@@ -1,4 +1,4 @@
-# SOLEROM FAST MENU
+# FAST MENU
 [mygits](./mygits.md) |
 [thingiverse](https://www.thingiverse.com/solov/designs) |
 [raindrop](https://raindrop.io/vladi-solov) |
