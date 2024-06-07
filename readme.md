@@ -7,5 +7,7 @@
 [travelRepo](https://vzsolov.github.io/) | 
 
 [solai](https://github.com/SOLEROM/solai) |
+[aiLng](https://github.com/SOLEROM/aiLng)|
 [tinyai](https://github.com/SOLEROM/tinyai) |
 [ai24](https://github.com/SOLEROM/ai24)
+
