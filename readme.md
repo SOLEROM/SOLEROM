@@ -11,3 +11,6 @@
 [tinyai](https://github.com/SOLEROM/tinyai) |
 [ai24](https://github.com/SOLEROM/ai24)
 
+
+# Forks
+[fixel](https://github.com/SOLEROM/FixelCourses)
