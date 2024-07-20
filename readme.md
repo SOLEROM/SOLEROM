@@ -6,11 +6,12 @@
 [fll](https://github.com/SOLEROM/fll) |
 [travelRepo](https://vzsolov.github.io/) | 
 
+### AI
 [solai](https://github.com/SOLEROM/solai) |
 [aiLng](https://github.com/SOLEROM/aiLng)|
 [tinyai](https://github.com/SOLEROM/tinyai) |
 [ai24](https://github.com/SOLEROM/ai24)
 
 
-# Forks
+### Forks
 [fixel](https://github.com/SOLEROM/FixelCourses)
