@@ -15,3 +15,6 @@
 
 ### Forks
 [fixel](https://github.com/SOLEROM/FixelCourses)
+
+## gitpages
+[solai](https://solerom.github.io/solai)
