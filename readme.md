@@ -9,8 +9,8 @@
 ### AI
 [solai](https://github.com/SOLEROM/solai) |
 [aiLng](https://github.com/SOLEROM/aiLng)|
-[tinyai](https://github.com/SOLEROM/tinyai) |
-[ai24](https://github.com/SOLEROM/ai24)
+tinyai[💡](https://github.com/SOLEROM/tinyai) [🔖](https://github.com/SOLEROM/tinyai/wiki) |
+📛[ai24](https://github.com/SOLEROM/ai24)
 
 ## gitpages
 🔖[solai](https://solerom.github.io/solai)
