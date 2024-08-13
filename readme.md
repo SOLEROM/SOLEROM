@@ -11,5 +11,3 @@
 * [tinyai💡](https://github.com/SOLEROM/tinyai)[🔖](https://github.com/SOLEROM/tinyai/wiki) | [maxSlimer🔖](https://solerom.github.io/maxSlimer/readme.html)|
 * [aiLng💡](https://github.com/SOLEROM/aiLng)
 
-## gitpages
-🔖[solai](https://solerom.github.io/solai)
