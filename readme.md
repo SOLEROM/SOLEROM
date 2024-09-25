@@ -9,7 +9,7 @@ phy: [thingiverse](https://www.thingiverse.com/solov/designs) |[travelRepo](http
 * [aiLng💡](https://github.com/SOLEROM/aiLng)
 
 ### embd
-* [emdLin](https://github.com/SOLEROM/embedLin)|[wolfLab](https://github.com/SOLEROM/WolfLab)|[root](https://github.com/SOLEROM/rootDeploy)
+* [emdLin](https://github.com/SOLEROM/embedLin)|[wolfLab](https://github.com/SOLEROM/WolfLab)|[rootS](https://github.com/SOLEROM/rootDeploy)
 * [linSys](https://github.com/SOLEROM/linSys)|[ubu18](https://github.com/SOLEROM/ubu18)|[srv](https://github.com/SOLEROM/srvStaff)
 * [rtos](https://github.com/SOLEROM/freeRtosPlay)|[ker](https://github.com/SOLEROM/KernelWrks)|[buildRoot](https://github.com/SOLEROM/buildRootPlay)
 * [chWs](https://github.com/SOLEROM/chipWis)|
