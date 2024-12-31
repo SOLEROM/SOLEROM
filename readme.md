@@ -6,6 +6,7 @@ phy: [thingiverse](https://www.thingiverse.com/solov/designs) |[travelRepo](http
 ### AI
 * [solai💡](https://github.com/SOLEROM/solai)[🔖](https://solerom.github.io/solai/) | [ai24📛](https://github.com/SOLEROM/ai24) | [aiArmory🔮](https://github.com/SOLEROM/aiArmory)
 * [tinyai💡](https://github.com/SOLEROM/tinyai)[🔖](https://github.com/SOLEROM/tinyai/wiki) | [maxSlimer🔖](https://solerom.github.io/maxSlimer/readme.html)|[mLite](https://github.com/SOLEROM/mLite)
+  *   [imx500](https://github.com/SOLEROM/sonyAI)
 * [aiLng💡](https://github.com/SOLEROM/aiLng)
 
 ### embd
