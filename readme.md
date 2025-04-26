@@ -10,8 +10,8 @@ phy: [3D🖨️](https://github.com/SOLEROM/3dDev) | [🌍travelRepo](https://vz
 * [aiLng💡](https://github.com/SOLEROM/aiLng)
 
 ### sysadmin
-* [linSys](https://github.com/SOLEROM/linSys)|[ubu20](https://github.com/SOLEROM/ubu20)|[srv](https://github.com/SOLEROM/srvStaff)|[stacker](https://github.com/SOLEROM/stacker)
-* [tasky](https://github.com/SOLEROM/tasky)
+* [linSys](https://github.com/SOLEROM/linSys)|[ubu20](https://github.com/SOLEROM/ubu20)|[srv](https://github.com/SOLEROM/srvStaff)
+* [stacker](https://github.com/SOLEROM/stacker)|[tasky](https://github.com/SOLEROM/tasky)
 
 ### embd
 * [emdLin](https://github.com/SOLEROM/embedLin)|[wolfLab](https://github.com/SOLEROM/WolfLab)|[rootS](https://github.com/SOLEROM/rootDeploy)
