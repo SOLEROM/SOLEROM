@@ -1,5 +1,6 @@
 # FAST MENU
-r&d: [raindrop](https://raindrop.io/0xsol) | [notion](https://spangle-pea-f53.notion.site/SOL_PUB-38513cb1c1c641b98f167945b84b56e7) | [gist](https://gist.github.com/SOLEROM) |  | [snippets](https://github.com/SOLEROM/snippet/tree/master)
+r&d: [raindrop](https://raindrop.io/0xsol) | [notion](https://spangle-pea-f53.notion.site/SOL_PUB-38513cb1c1c641b98f167945b84b56e7) | [gist](https://gist.github.com/SOLEROM) | [snippets](https://github.com/SOLEROM/snippet/tree/master)
+
 phy: [3D🖨️](https://github.com/SOLEROM/3dDev) | [🌍travelRepo](https://vzsolov.github.io/)
 
 ### AI
