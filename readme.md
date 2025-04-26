@@ -10,8 +10,8 @@ phy: [thingiverse](https://www.thingiverse.com/solov/designs) |[travelRepo](http
 * [aiLng💡](https://github.com/SOLEROM/aiLng)
 
 ### sysadmin
-* [linSys](https://github.com/SOLEROM/linSys)|[ubu20](https://github.com/SOLEROM/ubu20)|[srv](https://github.com/SOLEROM/srvStaff)
-
+* [linSys](https://github.com/SOLEROM/linSys)|[ubu20](https://github.com/SOLEROM/ubu20)|[srv](https://github.com/SOLEROM/srvStaff)|[stacker](https://github.com/SOLEROM/stacker)
+* [tasky](https://github.com/SOLEROM/tasky)
 
 ### embd
 * [emdLin](https://github.com/SOLEROM/embedLin)|[wolfLab](https://github.com/SOLEROM/WolfLab)|[rootS](https://github.com/SOLEROM/rootDeploy)
