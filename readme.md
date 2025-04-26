@@ -1,7 +1,6 @@
 # FAST MENU
-r&d: [raindrop](https://raindrop.io/0xsol) | [notion](https://spangle-pea-f53.notion.site/SOL_PUB-38513cb1c1c641b98f167945b84b56e7) | [allgits](./mygits.md) | [gist](https://gist.github.com/SOLEROM) | [3D](https://github.com/SOLEROM/3dDev)
-
-phy: [thingiverse](https://www.thingiverse.com/solov/designs) |[travelRepo](https://vzsolov.github.io/)
+r&d: [raindrop](https://raindrop.io/0xsol) | [notion](https://spangle-pea-f53.notion.site/SOL_PUB-38513cb1c1c641b98f167945b84b56e7) | [gist](https://gist.github.com/SOLEROM) |  | [snippets](https://github.com/SOLEROM/snippet/tree/master)
+phy: [3D🖨️](https://github.com/SOLEROM/3dDev) | [🌍travelRepo](https://vzsolov.github.io/)
 
 ### AI
 * [solai💡](https://github.com/SOLEROM/solai)[🔖](https://solerom.github.io/solai/) | [ai24📛](https://github.com/SOLEROM/ai24) | [aiArmory🔮](https://github.com/SOLEROM/aiArmory)
