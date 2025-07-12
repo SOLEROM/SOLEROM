@@ -22,7 +22,7 @@ phy: [3D🖨️](https://github.com/SOLEROM/3dDev) | [🌍travelRepo](https://vz
 * [fll💡](https://github.com/SOLEROM/fll)[🔖](https://solerom.github.io/fll/readme.html) | [play](https://github.com/SOLEROM/roboPlay)
 * [ros](https://github.com/SOLEROM/roskm)
 * [lerobot](https://github.com/SOLEROM/lerobPlay)
-* [raindrop-robotics](https://app.raindrop.io/my/46565679]
+* [raindrop-robotics](https://app.raindrop.io/my/46565679)
 
 ### OS
 [freeRtos](https://github.com/SOLEROM/freeRtosPlay) |  [go](https://github.com/SOLEROM/golonger)
