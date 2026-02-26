@@ -31,7 +31,7 @@
 
 
 
-```#Vid```: [gpiper](https://github.com/SOLEROM/gpiper) | [openIPC📛](https://github.com/SOLEROM/openIPC) | [voicer](https://github.com/SOLEROM/voicer) | [goPro](https://github.com/SOLEROM/golonger)
+```#Vid```: [gpiper](https://github.com/SOLEROM/gpiper) | [openIPC📛](https://github.com/SOLEROM/openIPC) | [voicer](https://github.com/SOLEROM/voicer) | [goPro](https://github.com/SOLEROM/golonger) | [redrawProm](https://github.com/SOLEROM/redrawProm)
 
 
 
@@ -42,7 +42,7 @@
 
 
 ```#Robo```: [shaolin](https://github.com/SOLEROM/shaolin) | [lerobot](https://github.com/SOLEROM/lerobPlay) | [deepRob](https://github.com/SOLEROM/deepRob) | [ros](https://github.com/SOLEROM/roskm)
-[Sims](github.com/SOLEROM/sims) 
+ | [Sims](github.com/SOLEROM/sims) 
 
 
 
