@@ -23,9 +23,9 @@
 
 
 
-[👾](./agents.md)```#Agents```: [Agents](https://github.com/SOLEROM/agents) | [scouter](https://github.com/SOLEROM/scouter) | [cldMaster](https://github.com/SOLEROM/cldMaster) | [Gandalf](https://github.com/SOLEROM/Gandalf)
+[👾](./agents.md)```#Agents```: [Agents](https://github.com/SOLEROM/agents) | [scouter](https://github.com/SOLEROM/scouter) | [cldMaster](https://github.com/SOLEROM/cldMaster) | [cldlab](https://github.com/SOLEROM/cldlab) | [Gandalf](https://github.com/SOLEROM/Gandalf)
 
-
+* [ccAgent](https://github.com/SOLEROM/ccpan_skill_template) | 
 
 ```#AI```: [solai](https://github.com/SOLEROM/solai) | [ai24📛](https://github.com/SOLEROM/ai24) | [aiArmory](https://github.com/SOLEROM/aiArmory) | [tinyai](https://github.com/SOLEROM/tinyai) |  [maxSlimer](https://solerom.github.io/maxSlimer/readme.html) | [mLite](https://github.com/SOLEROM/mLite) | [aiLng](https://github.com/SOLEROM/aiLng)
 
