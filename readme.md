@@ -23,7 +23,7 @@
 
 
 
-[👾](./agents.md)```#Agents```: [Agents](https://github.com/SOLEROM/agents) | [scouter](https://github.com/SOLEROM/scouter) | [cldMaster](https://github.com/SOLEROM/cldMaster) | [cldlab](https://github.com/SOLEROM/cldlab) | [Gandalf](https://github.com/SOLEROM/Gandalf)
+[👾](./agents.md)```#Agents```: [Agents](https://github.com/SOLEROM/agents) | [scouter](https://github.com/SOLEROM/scouter) | [cldMaster](https://github.com/SOLEROM/cldMaster) | [cldlab](https://github.com/SOLEROM/cldlab) | [Gandalf](https://github.com/SOLEROM/Gandalf) | [[cldsol]](https://github.com/SOLEROM/cldsol)
 
 * [mySkills](./mySkills.md)
 
