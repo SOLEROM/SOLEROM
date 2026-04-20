@@ -42,7 +42,7 @@
 
 
 ```#Robo```: [shaolin](https://github.com/SOLEROM/shaolin) | [lerobot](https://github.com/SOLEROM/lerobPlay) | [deepRob](https://github.com/SOLEROM/deepRob) | [ros](https://github.com/SOLEROM/roskm)
- | [Sims](github.com/SOLEROM/sims) 
+ | [Sims](https://github.com/SOLEROM/sims)  
 
 
 
