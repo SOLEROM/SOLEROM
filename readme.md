@@ -25,9 +25,9 @@
 
 [👾](./agents.md)```#Agents```: [Agents](https://github.com/SOLEROM/agents) | [scouter](https://github.com/SOLEROM/scouter) | [cldMaster](https://github.com/SOLEROM/cldMaster) 
 
-* skils [mySkills](./mySkills.md) | [[cldsol📛]](https://github.com/SOLEROM/cldsol)
+* skils [mySkills](./mySkills.md) | [cldsol📛](https://github.com/SOLEROM/cldsol)
 * systems [cldlab](https://github.com/SOLEROM/cldlab) | [Gandalf](https://github.com/SOLEROM/Gandalf) | [anvilon📛](https://github.com/SOLEROM/anvilon)
-* research [wikTemplate](https://github.com/SOLEROM/wikValTemplate) | (2brain)[https://github.com/SOLEROM/2brain)
+* research [wikTemplate](https://github.com/SOLEROM/wikValTemplate) | [2brain](https://github.com/SOLEROM/2brain)
 * models [rellm](https://github.com/SOLEROM/rellm)
 
 ```#AI```: [solai](https://github.com/SOLEROM/solai) | [ai24📛](https://github.com/SOLEROM/ai24) | [aiArmory](https://github.com/SOLEROM/aiArmory) | [tinyai](https://github.com/SOLEROM/tinyai) |  [maxSlimer](https://solerom.github.io/maxSlimer/readme.html) | [mLite](https://github.com/SOLEROM/mLite) | [aiLng](https://github.com/SOLEROM/aiLng)
