@@ -1,19 +1,43 @@
 #!/usr/bin/env bash
+# Regenerate allGits.md from the authenticated GitHub account (public + private).
+set -euo pipefail
 
-USER="SOLEROM"
-PER_PAGE=100
-PAGE=1
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+OUT="${SCRIPT_DIR}/allGits.md"
 
-while true; do
-    DATA=$(curl -s "https://api.github.com/users/${USER}/repos?per_page=${PER_PAGE}&page=${PAGE}")
+command -v gh >/dev/null || { echo "gh (GitHub CLI) is required" >&2; exit 1; }
+command -v jq >/dev/null || { echo "jq is required" >&2; exit 1; }
+gh auth status >/dev/null 2>&1 || { echo "not logged in, run: gh auth login" >&2; exit 1; }
 
-    COUNT=$(echo "$DATA" | jq 'length')
+USER="$(gh api user --jq .login)"
 
-    [ "$COUNT" -eq 0 ] && break
+DATA="$(gh repo list "$USER" --limit 1000 \
+    --json name,isPrivate,isFork,isArchived,description,url,pushedAt,primaryLanguage)"
 
-    echo "$DATA" | jq -r '.[].name'
+TOTAL=$(echo "$DATA" | jq 'length')
+PUBLIC=$(echo "$DATA" | jq '[.[] | select(.isPrivate==false)] | length')
+PRIVATE=$(echo "$DATA" | jq '[.[] | select(.isPrivate==true)] | length')
+FORKS=$(echo "$DATA" | jq '[.[] | select(.isFork==true)] | length')
 
-    PAGE=$((PAGE + 1))
-done \
-| tr '[:upper:]' '[:lower:]' \
-| sort -u
+{
+    echo "# All GitHub Repositories (${USER})"
+    echo
+    echo "Generated: $(date +%Y-%m-%d)"
+    echo "Total: ${TOTAL} repos — ${PUBLIC} public, ${PRIVATE} private, ${FORKS} forks"
+    echo
+    echo "| Repo | Visibility | Language | Description | Last Push | URL |"
+    echo "|---|---|---|---|---|---|"
+    echo "$DATA" | jq -r '
+        sort_by(.pushedAt) | reverse | .[] |
+        "| " + .name
+        + (if .isFork then " (fork)" else "" end)
+        + (if .isArchived then " (archived)" else "" end)
+        + " | " + (if .isPrivate then "Private" else "Public" end)
+        + " | " + (.primaryLanguage.name // "-")
+        + " | " + ((.description // "-") | gsub("\\|"; "\\|"))
+        + " | " + (.pushedAt[0:10])
+        + " | " + .url + " |"
+    '
+} > "$OUT"
+
+echo "wrote $OUT ($TOTAL repos)" >&2
